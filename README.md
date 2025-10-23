@@ -22,6 +22,10 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="791" height="681" alt="image" src="https://github.com/user-attachments/assets/55945e4d-6bc1-408a-b842-86c1e4ff9c7c" />
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -36,6 +40,23 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+  **TABULAR COLUMN**
+
+<img width="791" height="681" alt="image" src="https://github.com/user-attachments/assets/ab8a13fa-8178-4a94-a29f-97871a4fbccb" />
+
+
+
+
+**CALCULATION**
+
+<img width="771" height="1209" alt="image" src="https://github.com/user-attachments/assets/3fa18f69-ff74-47fe-b6d8-627ab567790f" />
+  
+   **MARK SPLIT UP**
+
+<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/ba85c2a1-b456-44ab-93a0-1acee91ce332" />
+
+   
+   
    **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
